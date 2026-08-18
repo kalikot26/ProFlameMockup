@@ -1,0 +1,19 @@
+{
+  "name": "proflamegas-oil-boiler-mockup",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Concept-preview single-page Oil Boiler Services mockup: real Cal.com booking embed + a Square-style payment demo. No backend, no real charges.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "@fontsource/inter": "^5.1.0",
+    "@fontsource/sora": "^5.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0"
+  }
+}
